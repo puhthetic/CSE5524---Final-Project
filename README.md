@@ -1,5 +1,8 @@
 # CSE5524---Final-Project
 
+**Prequisites**
+You must have at least Python 3.10+. This project should be run on OSC.
+
 You must install these dependencies:
 ```bash
 pip install kagglehub
