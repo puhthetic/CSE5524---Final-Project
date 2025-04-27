@@ -22,5 +22,5 @@ To run the code, run:
 `python cse_5524_enhanced.py`
 
 
-Leaderboard Position:
+Leaderboard Position (labeled Tyler Li):
 ![image](https://github.com/user-attachments/assets/61a6307f-e0a6-4d9c-876a-1a2bbc22b4ce)
