@@ -8,7 +8,6 @@ You must install these dependencies:
 pip install git+https://github.com/WildlifeDatasets/wildlife-datasets@develop
 pip install git+https://github.com/WildlifeDatasets/wildlife-tools
 pip install kagglehub
-pip install wildlife_datasets
 pip install timm
 pip install torch
 pip install numpy
