@@ -2,12 +2,12 @@
 
 You must install these dependencies:
 '''bash
-`pip install kagglehub`
-`pip install wildlife_datasets`
-`pip install timm`
-`pip install torch`
-`pip install numpy`
-`pip install pandas`
+pip install kagglehub
+pip install wildlife_datasets
+pip install timm
+pip install torch
+pip install numpy
+pip install pandas
 '''
 
 Change line 106 to epochs = 1 for 6 mins of training time. The longer the model trains for, the better the results.
