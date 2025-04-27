@@ -5,6 +5,8 @@ You must have at least Python 3.10+. This project should be run on OSC.
 
 You must install these dependencies:
 ```bash
+pip install git+https://github.com/WildlifeDatasets/wildlife-datasets@develop
+pip install git+https://github.com/WildlifeDatasets/wildlife-tools
 pip install kagglehub
 pip install wildlife_datasets
 pip install timm
